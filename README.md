@@ -18,8 +18,7 @@
 
 ## **비주얼 스튜디오 다운로드**
 <br/>
-[링크는 젤다의전설 주인공 이름](http://zeldahagoshipda.com)
-- [UE docs Visual Studio 구성하기](https://forums.unrealengine.com/t/unreal-5-1-package-project-for-android-error-org-codehaus-groovy-vmplugin-v7-java7-and-java-lang-unsupportedclassversionerror/793309)를 참고하여 VisualStudioSetup.exe를 실행
+- [UE docs Visual Studio 구성하기][https://dev.epicgames.com/documentation/ko-kr/unreal-engine/setting-up-visual-studio-development-environment-for-cplusplus-projects-in-unreal-engine]를 참고하여 VisualStudioSetup.exe를 실행
   비주얼 스튜디오를 다운로드합니다.
 <br/><br/><br/>
 
