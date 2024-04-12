@@ -44,4 +44,10 @@
 - 우선 위의 파일들을 삭제합니다 (마크다운 정크파일, 설치파일)<br/>
 - "V:\FishWish\03_Unreal\PerforceRoot_0411" 경로의 FishWish 루트폴더를 Perforce 프로젝트 폴더 경로로 복사합니다.<br/><br/>
 <img src="PerforceSetting.PNG">
-- 새로운 
+- 작업한 폴더를 새로운 Perforce 워크스페이스로 만듭니다.
+- Get Latest를 눌러 프로젝트를 퍼포스와 동기화 시킵니다.<br/><br/>
+<img src="SwitchEngine.PNG">
+- FishWish.uproject를 우클릭한 후 Switch Unreal Engine Version...을 클릭하여 FishWish엔진으로 선택되어있는지 확인합니다.
+- 확인 후 프로젝트를 실행합니다. 정상작동한다면 성공
+
+# 문제가 생기면 개발자를 불러주세요 고생하셨습니다. 
