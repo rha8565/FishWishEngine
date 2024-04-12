@@ -42,4 +42,5 @@
 ## **퍼포스와 연결**<br/>
 <img src="RemoveList.PNG">
 - 우선 위의 파일들을 삭제합니다 (마크다운 정크파일, 설치파일)<br/>
-- "V:\FishWish\03_Unreal\PerforceRoot_0411" 경로의 FishWish 루트폴더를 Perforce 프로젝트 폴더 경로로 복사합니다.<br/>
+- "V:\FishWish\03_Unreal\PerforceRoot_0411" 경로의 FishWish 루트폴더를 Perforce 프로젝트 폴더 경로로 복사합니다.<br/><br/>
+<img src="PerforceSetting.PNG">
