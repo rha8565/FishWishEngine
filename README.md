@@ -23,7 +23,7 @@
 
 ## **엔진소스 프로젝트 제너레이트**<br/>
 <img src="SetupBatch.PNG">
-- Perforce프로젝트폴더/UnrealEngine-oculus-5.3/Setup.bat 배치파일을 실행합니다.
+- Perforce프로젝트폴더/UnrealEngine_FishWish/Setup.bat 배치파일을 실행합니다.
   (Setup파일은 여러개 그 중 Windows 배치파일을 실행해야 합니다. 10~30분정도 걸립니다.)
 <br/>
 <img src="GenerBat.PNG">
@@ -34,7 +34,7 @@
 <img src="UE5_Sln.PNG">
 - UE5.sln파일을 실행합니다.(로그인 안하셔도 됩니다.)<br/>
 - 오른쪽 솔루션 탐색기에서 Engine->UE5를 우클릭하신후 빌드를 눌러주세요.(오래걸림)<br/>
-- 완료되면 "퍼포스프로젝트경로\UnrealEngine-oculus-5.3\Engine\Binaries\Win64\UnrealEditor.exe"를 실행하여 작동이 되는지 확인합니다.<br/>
+- 완료되면 "퍼포스프로젝트경로\UnrealEngine_FishWish\Engine\Binaries\Win64\UnrealEditor.exe"를 실행하여 작동이 되는지 확인합니다.<br/>
    (섀이더 컴파일 진행하면 성공)<br/>
 - 문제 발생시 개발자를 부르세요.<br/>
 <br/><br/><br/>
