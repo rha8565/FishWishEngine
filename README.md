@@ -11,8 +11,6 @@
 ## **Repository 내려받기**
 <br>
 - 진행전 새로운 Perforce 프로젝트용 폴더를 원하시는 경로에 만듭니다.
-<br/>
-<img src="DownloadREP.png">
 - V:\FishWish\03_Unreal\FishWishEngine 경로의 Zip 파일을 perforce 프로젝트 폴더에 압축해제합니다.
 <br/><br/><br/>
 
